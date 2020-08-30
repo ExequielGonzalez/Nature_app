@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "37636175007",
+    "firebase_url": "https://naturewallpaper-a6fbc.firebaseio.com",
+    "project_id": "naturewallpaper-a6fbc",
+    "storage_bucket": "naturewallpaper-a6fbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37636175007:android:ba1f3b2ad4a0cd3bb55eaa",
+        "android_client_info": {
+          "package_name": "com.goingsmartly.nature_wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37636175007-hip3c0krnp27f3e3k5inaqrbqrukobbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN2t88iREIS0EpsF_E855ETEhCiseRU34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37636175007-hip3c0krnp27f3e3k5inaqrbqrukobbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
