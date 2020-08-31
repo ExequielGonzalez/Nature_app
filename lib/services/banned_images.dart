@@ -22,6 +22,12 @@ class BannedImages {
     readListFromDB();
 //    print('currently banned: $_bannedImages');
 //    }
+    banImage(2309);
+
+    banImage(5981);
+    banImage(5184);
+    banImage(8040);
+    banImage(1);
   }
 
   void setSharedPreferences() async {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 String kAPI = '563492ad6f917000010000017070ee497ec64313a7552a5527b4c75f ';
-int kTotalPhotos = 10000;
+int kTotalPhotos = 5000;
 String kTopic = 'nature';
 int kCantNewPhotos = 3;
 String kTextShare = """Hey, try this app!
