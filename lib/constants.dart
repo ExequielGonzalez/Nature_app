@@ -5,7 +5,7 @@ int kTotalPhotos = 5000;
 String kTopic = 'nature';
 int kCantNewPhotos = 3;
 String kTextShare = """Hey, try this app!
-    https://play.google.com/store/apps/details?id=com.goingsmartly.wallpaper
+    https://play.google.com/store/apps/details?id=com.goingsmartly.nature_wallpaper
      You can use the next code to see the same wallpaper as me.
 You'll love it! """;
 
